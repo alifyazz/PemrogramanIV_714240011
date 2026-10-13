@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
 }
 
 class DetailScreen extends StatelessWidget {
-  const new({super.key});
+  const DetailScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
