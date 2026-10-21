@@ -35,7 +35,7 @@ class DetailScreen extends StatelessWidget {
                   style: TextStyle(fontSize: 30.0, fontWeight: FontWeight.bold),
                 ),
               ),
-              
+
               Container(
                 margin: const EdgeInsets.symmetric(vertical: 16.0),
                 child: const Row(
