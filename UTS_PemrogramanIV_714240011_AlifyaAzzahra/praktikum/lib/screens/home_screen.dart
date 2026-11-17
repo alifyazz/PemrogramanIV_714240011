@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
                   width: 100,
                   height: 100,
                   decoration: BoxDecoration(
-                    shape: BoxShape.circle,
+                    shape: BoxShape.rectangle,
                     border: Border.all(color: Colors.white, width: 3),
                     image: const DecorationImage(
                       image: AssetImage('assets/images/ulbi.jpg'),
